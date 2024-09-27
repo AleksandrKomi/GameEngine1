@@ -1,0 +1,91 @@
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.exe
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.deps.json
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.runtimeconfig.json
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.dll
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.pdb
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.csproj.AssemblyReference.cache
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.GameWindow.resources
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.dll
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\obj\Debug\net6.0-windows\refint\GameEngine.dll
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.pdb
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.genruntimeconfig.cache
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\obj\Debug\net6.0-windows\ref\GameEngine.dll
+C:\Users\Andrei\source\repos\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\player.png
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.exe
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\player.png
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.deps.json
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.runtimeconfig.json
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.dll
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.pdb
+C:\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.GameWindow.resources
+C:\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.csproj.GenerateResource.cache
+C:\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.AssemblyInfoInputs.cache
+C:\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.AssemblyInfo.cs
+C:\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.csproj.CoreCompileInputs.cache
+C:\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.dll
+C:\GameEngine\GameEngine\obj\Debug\net6.0-windows\refint\GameEngine.dll
+C:\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.pdb
+C:\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.genruntimeconfig.cache
+C:\GameEngine\GameEngine\obj\Debug\net6.0-windows\ref\GameEngine.dll
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\land.png
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\playerLeft.png
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\playerRight.png
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\opponent.png
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\opponentLeft.png
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\opponentRight.png
+C:\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\fire.png
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.exe
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\fire.png
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\land.png
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\opponent.png
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\opponentLeft.png
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\opponentRight.png
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\player.png
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\playerLeft.png
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\playerRight.png
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.deps.json
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.runtimeconfig.json
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.dll
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.pdb
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.csproj.AssemblyReference.cache
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.GameWindow.resources
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.csproj.GenerateResource.cache
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.AssemblyInfoInputs.cache
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.AssemblyInfo.cs
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.csproj.CoreCompileInputs.cache
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.dll
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\refint\GameEngine.dll
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.pdb
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.genruntimeconfig.cache
+C:\Users\Санчо\Downloads\Telegram Desktop\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\ref\GameEngine.dll
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.exe
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\fire.png
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\land.png
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\opponent.png
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\opponentLeft.png
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\opponentRight.png
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\player.png
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\playerLeft.png
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\Resources\playerRight.png
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.deps.json
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.runtimeconfig.json
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.dll
+D:\GameEngine2\GameEngine\GameEngine\bin\Debug\net6.0-windows\GameEngine.pdb
+D:\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.GameWindow.resources
+D:\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.csproj.GenerateResource.cache
+D:\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.AssemblyInfoInputs.cache
+D:\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.AssemblyInfo.cs
+D:\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.csproj.CoreCompileInputs.cache
+D:\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.dll
+D:\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\refint\GameEngine.dll
+D:\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.pdb
+D:\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\GameEngine.genruntimeconfig.cache
+D:\GameEngine2\GameEngine\GameEngine\obj\Debug\net6.0-windows\ref\GameEngine.dll

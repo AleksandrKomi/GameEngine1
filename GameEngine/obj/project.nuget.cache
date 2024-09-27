@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+YPCTNmb7k=",
+  "success": true,
+  "projectFilePath": "D:\\GameEngine2\\GameEngine\\GameEngine\\GameEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pelkov.as\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\pelkov.as\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\pelkov.as\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\pelkov.as\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

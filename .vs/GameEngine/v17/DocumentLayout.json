@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GameEngine2\\GameEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22C932-5167-4F11-AC0C-317AE988A375}|GameEngine\\GameEngine.csproj|d:\\gameengine2\\gameengine\\gameengine\\characters\\opponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22C932-5167-4F11-AC0C-317AE988A375}|GameEngine\\GameEngine.csproj|solutionrelative:gameengine\\characters\\opponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22C932-5167-4F11-AC0C-317AE988A375}|GameEngine\\GameEngine.csproj|d:\\gameengine2\\gameengine\\gameengine\\gamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22C932-5167-4F11-AC0C-317AE988A375}|GameEngine\\GameEngine.csproj|solutionrelative:gameengine\\gamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22C932-5167-4F11-AC0C-317AE988A375}|GameEngine\\GameEngine.csproj|d:\\gameengine2\\gameengine\\gameengine\\decorations\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22C932-5167-4F11-AC0C-317AE988A375}|GameEngine\\GameEngine.csproj|solutionrelative:gameengine\\decorations\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22C932-5167-4F11-AC0C-317AE988A375}|GameEngine\\GameEngine.csproj|d:\\gameengine2\\gameengine\\gameengine\\characters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22C932-5167-4F11-AC0C-317AE988A375}|GameEngine\\GameEngine.csproj|solutionrelative:gameengine\\characters\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A22C932-5167-4F11-AC0C-317AE988A375}|GameEngine\\GameEngine.csproj|d:\\gameengine2\\gameengine\\gameengine\\decorations\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A22C932-5167-4F11-AC0C-317AE988A375}|GameEngine\\GameEngine.csproj|solutionrelative:gameengine\\decorations\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fire.cs",
+              "DocumentMoniker": "D:\\GameEngine2\\GameEngine\\GameEngine\\Decorations\\Fire.cs",
+              "RelativeDocumentMoniker": "GameEngine\\Decorations\\Fire.cs",
+              "ToolTip": "D:\\GameEngine2\\GameEngine\\GameEngine\\Decorations\\Fire.cs",
+              "RelativeToolTip": "GameEngine\\Decorations\\Fire.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:48:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Opponent.cs",
+              "DocumentMoniker": "D:\\GameEngine2\\GameEngine\\GameEngine\\Characters\\Opponent.cs",
+              "RelativeDocumentMoniker": "GameEngine\\Characters\\Opponent.cs",
+              "ToolTip": "D:\\GameEngine2\\GameEngine\\GameEngine\\Characters\\Opponent.cs",
+              "RelativeToolTip": "GameEngine\\Characters\\Opponent.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwF0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:33:14.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Land.cs",
+              "DocumentMoniker": "D:\\GameEngine2\\GameEngine\\GameEngine\\Decorations\\Land.cs",
+              "RelativeDocumentMoniker": "GameEngine\\Decorations\\Land.cs",
+              "ToolTip": "D:\\GameEngine2\\GameEngine\\GameEngine\\Decorations\\Land.cs",
+              "RelativeToolTip": "GameEngine\\Decorations\\Land.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:40:44.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\GameEngine2\\GameEngine\\GameEngine\\Characters\\Player.cs",
+              "RelativeDocumentMoniker": "GameEngine\\Characters\\Player.cs",
+              "ToolTip": "D:\\GameEngine2\\GameEngine\\GameEngine\\Characters\\Player.cs",
+              "RelativeToolTip": "GameEngine\\Characters\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T11:18:21.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameWindow.cs",
+              "DocumentMoniker": "D:\\GameEngine2\\GameEngine\\GameEngine\\GameWindow.cs",
+              "RelativeDocumentMoniker": "GameEngine\\GameWindow.cs",
+              "ToolTip": "D:\\GameEngine2\\GameEngine\\GameEngine\\GameWindow.cs",
+              "RelativeToolTip": "GameEngine\\GameWindow.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAIwCAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T10:56:57.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
